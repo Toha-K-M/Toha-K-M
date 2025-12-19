@@ -5,7 +5,7 @@
 <p> A software engineer specializing in building resilient microservices and high-scale software solutions.</p>
 <p> I mostly work on the backend side - Go and Python. </p>
 <p> I have managed multiple teams and have expertise in DevOps, DevSecOps, Cloud Solutions, R&D, and backend development, along with contributions to full-stack development. I am also interested in AI, Machine Learning, and Big Data.</p>
-<p> I have worked with Kubernetes, Docker, Kafka, Airflow, PySpark, and several other technologies. Moreover, I have experience with public cloud solutions like AWS and GCP</p>
+<p> I have worked with Kubernetes, Docker, Kafka, Airflow, PySpark, and several other technologies. Moreover, I have experience with public cloud solutions like AWS, Azure and GCP</p>
 
 
 ---
