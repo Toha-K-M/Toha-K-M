@@ -18,10 +18,10 @@ I am a software engineer with **over 6 years of experience** specializing in bui
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | Go (Golang), Python, Pyspark |
+| **Languages** | Go (Golang), Python |
 | **Orchestration** | Kubernetes, Docker, Helm, K8s Operators, Multi-cluster Management |
-| **Workflow & Messaging** | Temporal, Kafka, Redis, Apache Airflow |
-| **Cloud & Infrastructure** | GCP, ArgoCD, Tekton, GitLab CI, Jenkins, Terraform (Conceptual) |
+| **Workflow & Messaging** | Kafka, RabbitMQ, Redis, Apache Airflow, Temporal |
+| **Cloud & Infrastructure** | GCP, ArgoCD, Tekton, GitLab CI, Jenkins, Terraform |
 | **Databases** | PostgreSQL, MongoDB, Cloud SQL, Apache Iceberg (Data Lake) |
 | **Observability** | Prometheus, Grafana |
 <!--
