@@ -4,16 +4,16 @@
   </a></p>
 <p> A software engineer specializing in building resilient microservices and high-scale software solutions.</p>
 <p> I mostly work on the backend side - Go and Python. </p>
-<p> I have managed multiple teams and have expertise in DevOps, DevSecOps, Cloud Solutions, R&D, and backend development, along with contributions to full-stack development. I am also interested in AI, Machine Learning, and Big Data.</p>
-<p> I have worked with Kubernetes, Docker, Kafka, Airflow, PySpark, and several other technologies. Moreover, I have experience with public cloud solutions like AWS, Azure and GCP</p>
-
+<p> I have managed multiple teams and have expertise in DevOps, DevSecOps, Cloud Solutions, R&D, and backend development. Additionally, I have contributed to data pipeline development and a custom data lake solution. </p>
+<p> I have worked with Kubernetes, Docker, Kafka, Airflow, PySpark, and several other technologies. Moreover, I have experience with public cloud solutions like AWS, Azure, and GCP.</p>
+<p>I am also interested in AI, Machine Learning, and Big Data 💡.</p>
 
 ---
 
 ### 🚀 At a Glance
 - 🛠️ **Current Focus:** I’m currently working with Kubernetes, Agentic AI, and Cloud native tools.
 - ⚓ **Open Source:** Created **Lighthouse**, a Go-based tool for multi-cluster K8s monitoring and management.
-- 🌱 **Learning:** I’m currently learning Advanced System Architecture, Security and Networking.
+- 🌱 **Learning:** I’m currently learning Advanced System Architecture, Security, and Networking.
 
 ---
 
