@@ -1,22 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I'm Toha
+<p><a href="https://linkedin.com/in/your-profile-url">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a></p>
+<p> A software engineer specializing in building resilient microservices and high-scale software solutions.</p>
+<p> I mostly work on the backend side - Go and Python. </p>
+<p> I have managed multiple teams and have expertise in DevOps, DevSecOps, Cloud Solutions, R&D, and backend development, along with contributions to full-stack development. I am also interested in AI, Machine Learning, and Big Data.</p>
+<p> I have worked with Kubernetes, Docker, Kafka, Airflow, PySpark, and several other technologies. Moreover, I have experience with public cloud solutions like AWS and GCP</p>
 
-### Senior Backend Engineer | Distributed Systems & Kubernetes Architect
-
-I am a software engineer with **over 6 years of experience** specializing in building resilient microservices and high-scale software solutions. My expertise lies in architecting distributed systems using **Go**, **Python**, and **Kubernetes**, with a focus on improving system reliability and deployment efficiency.
 
 ---
 
 ### 🚀 At a Glance
-- 🛠️ **Current Focus:** Building a Multi-cluster Kubernetes Management System from scratch using **Go**, **Temporal**, and **Redis**.
+- 🛠️ **Current Focus:** I’m currently working with Kubernetes, Agentic AI, and Cloud native tools.
 - ⚓ **Open Source:** Created **Lighthouse**, a Go-based tool for multi-cluster K8s monitoring and management.
-- 📉 **Impact:** Designed PaaS microservices that resulted in a **60% increase in deployment efficiency** and a **40% decrease in system failures**.
-- 🏗️ **Architectural Philosophy:** "Resiliency by design"—utilizing event-driven patterns, caching, and robust orchestration.
-
----
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tohakhan32)
+- 🌱 **Learning:** I’m currently learning Advanced System Architecture, Security and Networking.
 
 ---
 
