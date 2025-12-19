@@ -14,6 +14,12 @@ I am a software engineer with **over 6 years of experience** specializing in bui
 
 ---
 
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tohakhan32)
+
+---
+
 ### 🛠️ Technical Stack
 
 | Category | Tools & Languages |
